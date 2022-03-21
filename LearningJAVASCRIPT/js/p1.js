@@ -1,2 +1,0 @@
-alert("HOla a todos");
-
